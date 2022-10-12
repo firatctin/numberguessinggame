@@ -6,3 +6,6 @@ Dokuz Eylül Üniversitesi Programlamaya Giriş dersi için C öğrenmeye başla
 ## Fırat ÇETİN
 ### Dokuz Eylül Üniversitesi
 ### Elektrik Elektronik Mühendisliği
+
+[LinkedIn](https://www.linkedin.com/in/f%C4%B1ratcetin1/) [Instagram](https://www.instagram.com/bilgisayargibi/?hl=tr)
+[GitHub](https://github.com/firatctin)
